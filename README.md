@@ -50,7 +50,7 @@ This project is a binary classification task built on a subset of the NHANES dat
 
 4. **Evaluation**
    - Accuracy and cross-validation on train set
-   - Final test set predictions saved to `submission.csv`
+   - Final test set predictions saved to `submission.xlsx`
 
 ---
 

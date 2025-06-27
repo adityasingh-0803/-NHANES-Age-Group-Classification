@@ -50,7 +50,7 @@ This project is a binary classification task built on a subset of the NHANES dat
 
 4. **Evaluation**
    - Accuracy and cross-validation on train set
-   - Final test set predictions saved to `submission.xlsx`
+   - Final test set predictions saved to `submission.xls`
 
 ---
 
@@ -58,7 +58,7 @@ This project is a binary classification task built on a subset of the NHANES dat
 
 - ✅ Format: `submission.csv` (1 column: `age_group`, values: 0 or 1)
 - ✅ Validation Score: **65.584% accuracy** (Leaderboard Score: **34.416**)
-- ✅ File: [submission.xlsx](./submission.xlsx)
+- ✅ File: [submission.xls](./submission.xlsx)
 
 ---
 

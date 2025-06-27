@@ -58,7 +58,7 @@ This project is a binary classification task built on a subset of the NHANES dat
 
 - ✅ Format: `submission.csv` (1 column: `age_group`, values: 0 or 1)
 - ✅ Validation Score: **65.584% accuracy** (Leaderboard Score: **34.416**)
-- ✅ File: [submission.csv](./submission.xlsx)
+- ✅ File: [submission.xlsx](./submission.xlsx)
 
 ---
 
